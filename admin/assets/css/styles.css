@@ -1,0 +1,10 @@
+.has-error {
+    border: solid 1px red;
+}
+
+td {
+    vertical-align: middle;
+}
+td:first-child {
+    font-weight: 700;
+}
